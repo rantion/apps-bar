@@ -8,6 +8,7 @@ import HelloWorld from './components/HelloWorld.vue'
 
     <div class="wrapper">
       <HelloWorld msg="You did it bestie!!!!" />
+      <HelloWorld msg="Proud of you" />
     </div>
   </header>
 </template>
